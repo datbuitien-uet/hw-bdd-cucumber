@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BDD and Cucumber
 ================
 
@@ -105,3 +106,6 @@ archive. For example, unarchiving your submission should create a
 directory named `features` in the current working directory. It should
 not extract all your features directly into the current working
 directory. 
+=======
+# hw-bdd-cucumber
+>>>>>>> f7321390419ddfd7d5675901634f50e7e33d61a5
